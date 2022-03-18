@@ -1,1 +1,6 @@
-
+<bug_report>
+    <summary>Summary</summary>
+    <description>Description</description>
+    <actual_result>Actual result</actual_result>
+    <expected_result>Expected result</expected_result>
+</bug_report>
