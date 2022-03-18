@@ -1,0 +1,15 @@
+<skills>
+    <testing_theory>
+        <sdlc>SDLC</sdlc>
+        <stlc>STLC</stlc>
+        <bug_reports>Bug reports</bug_reports>
+        <documentation>Documentation</documentation>
+    </testing_theory>
+    <skills_of_working_whith>
+        <bash>Bash</bash>
+        <github>Github</github>
+        <postman>Postman</postman>
+        <sql>SQL</sql>
+        <fidler>Fidler</fidler>
+    </skills_of_working_whith>
+</skills>
