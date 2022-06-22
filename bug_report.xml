@@ -1,6 +1,9 @@
 <bug_report>
+    <id>ID</id>
     <summary>Summary</summary>
-    <description>Description</description>
+    <str>Steps to reproduce</str>
     <actual_result>Actual result</actual_result>
     <expected_result>Expected result</expected_result>
+    <severity>Major</severity>
+    <priority>High</priority>
 </bug_report>
